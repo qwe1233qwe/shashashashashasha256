@@ -14,5 +14,5 @@ if (game.GameId == 73885730) then
 elseif (game.GameId == 1008451066) then
 	loadstring(game:HttpGet("https://api.getsample.lol/files/dahood"))();
 elseif (game.GameId == 994732206) then
-	game.Players.LocalPlayer:Kick('use the bloxfruits script at the other panel')
+	loadstring(game:HttpGet("https://v0.l11.store/files/xv01m9bx"))();
 end;
