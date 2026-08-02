@@ -14,5 +14,5 @@ if (game.GameId == 73885730) then
 elseif (game.GameId == 1008451066) then
 	loadstring(game:HttpGet("https://api.getsample.lol/files/dahood"))();
 elseif (game.GameId == 994732206) then
-	loadstring(game:HttpGet("https://v0.l11.store/files/y6o1rghz"))();
+	loadstring(game:HttpGet("https://v0.l11.store/files/zj5z9asn"))();
 end;
