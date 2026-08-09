@@ -9,7 +9,7 @@ if (identifyexecutor() == "Wave") then
 	end;	
 end;
 
-if (game.GameId == 73885730) then
+if game.GameId == 73885730 or game.GameId == 135564683255158 then
 	loadstring(game:HttpGet("https://api.getsample.lol/files/prisonlife"))();
 elseif (game.GameId == 1008451066) then
 	loadstring(game:HttpGet("https://api.getsample.lol/files/dahood"))();
