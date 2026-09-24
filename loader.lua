@@ -10,11 +10,11 @@ if (identifyexecutor() == "Wave") then
 end;
 
 if game.GameId == 73885730 then
-	loadstring(game:HttpGet("https://api.getsample.lol/files/prisonlife"))();
+	loadstring(game:HttpGet("https://api.polsec.sh/loader/b8e54f15aa9c4e90/12ffd1416b04edd1"))();
 elseif (game.GameId == 1008451066) then
-	loadstring(game:HttpGet("https://api.getsample.lol/files/dahood"))();
+    loadstring(game:HttpGet("https://api.polsec.sh/loader/b8e54f15aa9c4e90/ce6b15c797e9cbf9"))();
 elseif (game.GameId == 3634139746) then
-	loadstring(game:HttpGet("https://cdn.getsample.lol/dvrwziox"))();
+	game.Players.LocalPlayer:Kick('Hood Customs script is being worked on, its down');
 elseif (game.GameId == 994732206) then
-	game.Players.LocalPlayer:Kick('SillyScripts Blox Fruits is down for now.'); 
+	game.Players.LocalPlayer:Kick('Blox Fruits script is being worked on, its down'); 
 end;
