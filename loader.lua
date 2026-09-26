@@ -14,7 +14,7 @@ if game.GameId == 73885730 then
 elseif (game.GameId == 1008451066) then
     loadstring(game:HttpGet("https://api.polsec.sh/loader/b8e54f15aa9c4e90/ce6b15c797e9cbf9"))();
 elseif (game.GameId == 3634139746) then
-	game.Players.LocalPlayer:Kick('Hood Customs script is being worked on, its down');
+	loadstring(game:HttpGet("https://api.polsec.sh/loader/b8e54f15aa9c4e90/01aa81d82103aaf9"))();
 elseif (game.GameId == 994732206) then
 	game.Players.LocalPlayer:Kick('Blox Fruits script is being worked on, its down'); 
 end;
