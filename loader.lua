@@ -18,6 +18,9 @@ elseif (game.GameId == 3634139746) then
 elseif (game.GameId == 7709344486) then
 	print('\n WAIT AROUND 15 SECONDS TO LOAD\n');
 	loadstring(game:HttpGet("https://api.polsec.net/loader/b8e54f15aa9c4e90/541fda285ca6bcce"))();
+elseif (game.GameId == 10563114921) then
+    print('\n WAIT AROUND 15-20 SECONDS TO LOAD\n');
+    loadstring(game:HttpGet("https://api.polsec.net/loader/b8e54f15aa9c4e90/00b5b0f8f2c67478"))()
 elseif (game.GameId == 994732206) then
 	game.Players.LocalPlayer:Kick('Blox Fruits script is being worked on, its down'); 
 end;
